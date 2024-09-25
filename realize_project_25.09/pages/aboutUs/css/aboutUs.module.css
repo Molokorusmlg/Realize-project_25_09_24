@@ -8,16 +8,6 @@
   src: url(../../../assets/fonts/MontserratAlternates-ExtraBold.ttf);
   font-weight: 900;
 }
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-weight: 500;
-  scroll-behavior: smooth;
-  cursor: default;
-  font-family: Monterat;
-}
-
 .header {
   padding-left: 5%;
   padding-right: 5%;

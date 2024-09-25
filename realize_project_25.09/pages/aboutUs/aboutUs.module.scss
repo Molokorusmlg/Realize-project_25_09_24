@@ -30,15 +30,7 @@
 }
 
 // All rules
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-weight: 500;
-    scroll-behavior: smooth;
-    cursor: default;
-    font-family: Monterat;
-}
+
 
 .header{
     @include container();
